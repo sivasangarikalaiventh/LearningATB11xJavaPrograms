@@ -1,7 +1,7 @@
 package ex_01_javabasic;
 import java.util.Scanner;
 
-public class Lap008 {
+public class Lap009 {
     public static void main(String args[]) {
          /*Write a program that calculates and displays the letter grade for a given numerical score (e.g., A, B, C, D, or F) based on the following grading scale:More actions
 
